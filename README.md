@@ -6,4 +6,8 @@ You cam visit out developed link by following the below link
 
 https://aravind-hosi.000webhostapp.com/home.html
 
+You can Login as Admin by using the below credentials
 
+---->UserName and Password<------
+aravind@gmail.com
+Aravind123
