@@ -11,3 +11,8 @@ You can Login as Admin by using the below credentials
 ---->UserName and Password<------
 aravind@gmail.com
 Aravind123
+
+
+used the Below Database and the Tables to store the data in cloud.
+
+![DB](https://user-images.githubusercontent.com/124765943/235749937-3e88b4fa-285f-4ca6-91ee-f10e94f5e672.jpeg)
