@@ -1,5 +1,5 @@
 # Healthcare_Project_Dev-Team_2
-In order to improve the quality of healthcare for both patients and healthcare professionals, our team is recommending the creation of a healthcare application system that will combine the most recent technology breakthroughs.We will use a system engineering strategy that combines both agile and waterfall techniques to make sure the application system is created and maintained in a structured and effective manner. This strategy will allow us to create a useful application system that satisfies the requirements of patients as well as healthcare providers.
+Hospital Management System (HMS) is a software solution that will help healthcare organizations manage their day-to-day operations more efficiently. This HMS will be developed using HTML, CSS, JavaScript and backend like PHP and MySQL hosted in  Azure Cloud in Azure Cloud. The system will provide a range of features and functionalities that make it easier for healthcare professionals to manage patient data, appointments, billing and payments, electronic medical records, reporting and analytics, security, and compliance. By leveraging the latest technologies and following best practices, we aim to create a scalable, secure, and user-friendly HMS that supports the goals of your healthcare organization.
   
 
 
