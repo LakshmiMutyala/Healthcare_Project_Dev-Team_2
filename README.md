@@ -13,4 +13,4 @@ You can Login as Admin by using the below credentials
 
 used the Below Database and the Tables to store the data in cloud.
 
-DB
+![235749937-3e88b4fa-285f-4ca6-91ee-f10e94f5e672](https://user-images.githubusercontent.com/123425614/236074117-a4b22c6b-17b8-4309-8618-c136d001f1fc.jpeg)
