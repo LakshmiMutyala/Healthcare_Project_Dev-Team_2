@@ -5,16 +5,13 @@ For Code -> use project.zip file
   
 
 You can visit out developed link by following the below link
-
-
-https://aravind-hosi.000webhostapp.com/home.html
+       https://aravind-hosi.000webhostapp.com/home.html
 
 You can Login as Admin by using the below credentials
 
 ---->UserName and Password<------
 aravind@gmail.com
 Aravind123
-
 
 used the Below Database and the Tables to store the data in cloud.
 
