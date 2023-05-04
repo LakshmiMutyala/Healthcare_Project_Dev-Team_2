@@ -14,9 +14,11 @@ You can visit out developed link by following the below link
 
 You can Login as Admin by using the below credentials
 
----->UserName and Password<------
-aravind@gmail.com
-Aravind123
+--- UserName and Password ------
+
+ Username:aravind@gmail.com
+  
+  Password: Aravind123
 
 
 used the Below Database and the Tables to store the data in cloud.
