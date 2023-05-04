@@ -5,7 +5,7 @@ Hospital Management System (HMS) is a software solution that will help healthcar
 The system will provide a range of features and functionalities that make it easier for healthcare professionals to manage patient data, appointments, billing and payments, electronic medical records, reporting and analytics, security, and compliance. By leveraging the latest technologies and following best practices, we aim to create a scalable, secure, and user-friendly HMS that supports the goals of your healthcare organization.
 
 
-For Code -> use project.zip file
+For Code -> use Project.zip file
   
 
 You can visit out developed link by following the below link
